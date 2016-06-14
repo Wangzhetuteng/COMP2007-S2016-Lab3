@@ -9,9 +9,25 @@
 
 namespace COMP2007_S2016_Lab3
 {
-
-
     public partial class Departments
     {
+
+        /// <summary>
+        /// PageSizeDropDownList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList PageSizeDropDownList;
+
+        /// <summary>
+        /// DepartmentsGridView control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView DepartmentsGridView;
     }
 }
